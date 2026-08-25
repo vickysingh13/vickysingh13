@@ -31,5 +31,5 @@ Professional Software Engineer focused on building scalable web applications and
 * **M.S. in Computer Science** | Osmania University
 * **Software Engineer** | Vishwaksena Dream Solutions
 
-**Contact:** vickysinghofficial13@gmail.com | +91-9346133622  
+**Contact:** vickysinghofficial13@gmail.com |   
 **Links:** [LinkedIn](https://linkedin.com/in/vickykumarsinghvks) | [Project Gallery](https://github.com/vickysingh13)
